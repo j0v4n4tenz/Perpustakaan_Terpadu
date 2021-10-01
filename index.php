@@ -10,7 +10,7 @@
     <nav class="navbar">
         <div class="max-width">
         	<link rel="icon" href="img/dejalu.gif" type="image/gif">
-            <div class="logo"><a href="index.php" target="_blank">Perpustakan<span>Terpadu</span></a></div>
+            <div class="logo"><a href="index.php" target="_blank">Perpustakan<span>Terpadu Indonesia</span></a></div>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
             </div>
@@ -21,6 +21,7 @@
             <div class="home-content">
                 <div class="text-1">Selamat Datang</div>
                 <div class="text-2">Di Perpustakan Terpadu</div>
+		    <div class="text-4">Indonesia</div>
                 <div class="text-3">Saya ingin membaca buku <span class="typing"></span></div>
                 <a href="login.php">Login</a>
             </div>
