@@ -21,7 +21,7 @@
             <div class="home-content">
                 <div class="text-1">Selamat Datang</div>
                 <div class="text-2">Di Perpustakan Terpadu</div>
-		    <div class="text-4">Indonesia</div>
+		<div class="text-5">Indonesia Ku</div>
                 <div class="text-3">Saya ingin membaca buku <span class="typing"></span></div>
                 <a href="login.php">Login</a>
             </div>
