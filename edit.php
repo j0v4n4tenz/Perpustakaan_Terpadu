@@ -4,6 +4,7 @@ include('koneksi.php');
 <!DOCTYPE html>
 <html>
 <head>
+	//hacktoberfest
 	<title>Perpustakaan Terpadu - Edit</title>
 	<link rel="icon" href="img/dejalu.gif" type="image/gif">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
