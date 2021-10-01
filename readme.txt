@@ -11,9 +11,4 @@ password : admin
 
 sedangkan untuk login sebagai peserta silahkan daftar terlebih dahulu bila belum punya akun.
 
-cool
 
-
-Best Regards
-
-Levi
