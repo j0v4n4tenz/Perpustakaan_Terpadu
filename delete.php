@@ -1,6 +1,6 @@
 <?php
 include('koneksi.php');
- 
+//untuk mendapatkan data buku dan menghubungkan ke database
 if(isset($_GET['id_buku'])){
 	$id_buku = $_GET['id_buku'];
 	$cek = mysqli_query($koneksi, "SELECT * FROM buku WHERE id_buku='$id_buku'") or die(mysqli_error($koneksi));
